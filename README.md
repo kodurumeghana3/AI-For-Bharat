@@ -273,10 +273,6 @@ The system implements 15 formal correctness properties:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Team
-
-- **Meghna Koduru** - Project Lead & Developer
-
 ## 📞 Contact
 
 For questions or support, please reach out to:

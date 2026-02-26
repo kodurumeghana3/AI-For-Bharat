@@ -1,5 +1,7 @@
 # 🚨 AI Emergency Help Assistant
 
+Prototype: https://www.figma.com/make/LIK92NEwLdGrWtogq6QKJL/AI-Emergency-Help-Assistant?p=f&t=bE4lP2fZGIfOTLei-0
+
 A multilingual, low-bandwidth, voice-enabled AI system designed to guide people during the critical first few minutes of an emergency—before professional help arrives.
 
 ## 📋 Overview
